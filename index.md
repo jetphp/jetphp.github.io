@@ -1,6 +1,6 @@
 # JetPHP
 ## Framework brasileiro - sites & sistemas
 
+[Installing](#installing)
 
-* [Installing](#installing)
-* [Getting started](#getting-started)
+[Getting started](#getting-started)
