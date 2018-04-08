@@ -20,3 +20,4 @@
 * [Routes](https://jetphp.github.io/models/rotas)
 * [Google SEO](https://jetphp.github.io/models/seo)
 * [Static Texts](https://jetphp.github.io/models/textos)
+* [Start](https://jetphp.github.io/models/start)
