@@ -9,7 +9,7 @@ This model is used for load classes or views.
 
 ```php
   <?php
-    Load::class('class_name'); // Include an class from the dir "app/controlador/classes"
+    Load::class('class_name'); // Include a class from the dir "app/controlador/classes"
   ?>
 ```
 
