@@ -7,10 +7,10 @@ The start model's used for managing POST and GET data securely and correctly fil
 
 #### How to use?
 
-```
+```php
   <?php
     echo Start::get('id'); // Read GET data
     echo Start::post('id'); // Read POST data
-    echo Start::session('id'); // Read Session data
+    echo Start::session('id'); // Read Session   data
   ?>
 ```
