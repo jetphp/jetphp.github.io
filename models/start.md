@@ -3,7 +3,7 @@
 
 ### Start
 
-The start model's used for managing POST and GET data securely and correctly filter sessions.
+This model is used for managing POST and GET data securely and correctly filter sessions.
 
 #### How to use?
 
